@@ -53,12 +53,13 @@ The three different types are:
 
 <img src="http://upload.wikimedia.org/wikipedia/commons/5/56/Kosaciec_szczecinkowaty_Iris_setosa.jpg" alt="Iris Setosa" width="300"/>
 
-![Iris Setosa](http://upload.wikimedia.org/wikipedia/commons/5/56/Kosaciec_szczecinkowaty_Iris_setosa.jpg)(width=300, height=300)
 
-- Iris Versicolor
-- Iris Virginica
+## Iris Versicolor
+<img src="http://upload.wikimedia.org/wikipedia/commons/4/41/Iris_versicolor_3.jpg" alt="Iris Versicolor" width="300"/>
 
+## Iris Virginica
 
+<img src="http://upload.wikimedia.org/wikipedia/commons/9/9f/Iris_virginica.jpg" alt="Iris Virginica" width="300"/>
 
 
 
