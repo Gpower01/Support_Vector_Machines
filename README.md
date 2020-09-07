@@ -16,7 +16,7 @@
 
 ![SV_3D_viz_plane](./images/3D_plane_lines.png)
 
-## Project 1: Built-in Breast Cancer Dataset from Scikit-learn
+# Project 1: Built-in Breast Cancer Dataset from Scikit-learn
 - This project utilises SVM to predict whether a tumor is malignant or benign.
 
 ## GridSearch 
@@ -39,7 +39,7 @@
 
 
 
-## Project 2: Iris Flower Dataset 
+# Project 2: Iris Flower Dataset 
 
 - This project uses the famous [Iris flower data set](http://en.wikipedia.org/wiki/Iris_flower_data_set). 
 
