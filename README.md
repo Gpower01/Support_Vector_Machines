@@ -41,7 +41,18 @@
 
 ## Project 2: Iris Flower Dataset 
 
-[Iris Setosa](http://upload.wikimedia.org/wikipedia/commons/5/56/Kosaciec_szczecinkowaty_Iris_setosa.jpg)
+- This project uses the famous [Iris flower data set](http://en.wikipedia.org/wiki/Iris_flower_data_set). 
+
+The Iris data set is a multivariate data set introduced by Sir Ronald Fisher in the 1936 as an example of discriminant analysis.
+
+- The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor), so 150 total samples. Four features were measured from each sample: **the length and the width of the sepals and petals**, in centimeters.
+
+The three different types are:
+- Iris Setosa
+- Iris Versicolor
+- Iris Virginica
+
+![Iris Setosa](http://upload.wikimedia.org/wikipedia/commons/5/56/Kosaciec_szczecinkowaty_Iris_setosa.jpg)
 
 
 
