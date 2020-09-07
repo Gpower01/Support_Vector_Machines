@@ -51,8 +51,7 @@ The three different types are:
 
 ## Iris Setosa
 
-![Iris Setosa](http://upload.wikimedia.org/wikipedia/commons/5/56/Kosaciec_szczecinkowaty_Iris_setosa.jpg)
-
+![Iris Setosa](http://upload.wikimedia.org/wikipedia/commons/5/56/Kosaciec_szczecinkowaty_Iris_setosa.jpg)(width=300, height=300)
 
 - Iris Versicolor
 - Iris Virginica
