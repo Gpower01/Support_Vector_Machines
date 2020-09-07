@@ -64,18 +64,17 @@ The Iris data set is a multivariate data set introduced by Sir Ronald Fisher in 
 
 ## Classes of the Iris data set
 
-- The three classes in the Iris dataset:
 
-    Iris-setosa (n=50)
-    Iris-versicolor (n=50)
-    Iris-virginica (n=50)
+ - Iris-setosa (n=50)
+ - Iris-versicolor (n=50)
+ - Iris-virginica (n=50)
 
-- The four features of the Iris dataset:
+## The four features of the Iris dataset:
 
-    sepal length in cm
-    sepal width in cm
-    petal length in cm
-    petal width in cm
+ - sepal length in cm
+ - sepal width in cm
+ - petal length in cm
+ - petal width in cm
 
 
 ![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)
