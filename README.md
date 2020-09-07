@@ -39,9 +39,6 @@
 
 
 
-
-
-
 ## Project 2: Iris Flower Dataset 
 
 
