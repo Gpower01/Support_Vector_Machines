@@ -76,5 +76,14 @@ The Iris data set is a multivariate data set introduced by Sir Ronald Fisher in 
  - petal length in cm
  - petal width in cm
 
+## Exploratory Data Analysis using Seaborn
+
+![SV_Iris_EDA](./images/EDA.png)
+
+## KDE Plots
+
+![SV_Iris_KDE](./images/kdeplot.png)
+
+
 
 ![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)
